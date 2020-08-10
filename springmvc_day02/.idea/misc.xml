@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/day02_01response" />
+    <file type="web" url="file://$PROJECT_DIR$/day02_02original_fileupload" />
+    <file type="web" url="file://$PROJECT_DIR$/day02_03springmvc_fileupload" />
+    <file type="web" url="file://$PROJECT_DIR$/day02_04crossServer_fileupload_appServer" />
+    <file type="web" url="file://$PROJECT_DIR$/day02_04crossServer_fileupload_picServer" />
+    <file type="web" url="file://$PROJECT_DIR$/day02_05exception" />
+    <file type="web" url="file://$PROJECT_DIR$/day02_06interceptor" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/day02_01response/pom.xml" />
+        <option value="$PROJECT_DIR$/day02_02fileUpload/pom.xml" />
+        <option value="$PROJECT_DIR$/day02_02original_fileupload/pom.xml" />
+        <option value="$PROJECT_DIR$/day02_03springmvc_fileupload/pom.xml" />
+        <option value="$PROJECT_DIR$/day02_04crossServer_fileupload_picServer/pom.xml" />
+        <option value="$PROJECT_DIR$/day02_04crossServer_fileupload_appServer/pom.xml" />
+        <option value="$PROJECT_DIR$/day02_05exception/pom.xml" />
+        <option value="$PROJECT_DIR$/day02_06interceptor/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

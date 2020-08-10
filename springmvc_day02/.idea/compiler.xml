@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="day02_03springmvc_fileupload" />
+        <module name="day02_02original_fileupload" />
+        <module name="day02_05exception" />
+        <module name="day02_01response" />
+        <module name="day02_06interceptor" />
+        <module name="day02_04crossServer_fileupload_appServer" />
+        <module name="day02_04crossServer_fileupload_picServer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="day02_01response" target="1.8" />
+      <module name="day02_02original_fileupload" target="1.8" />
+      <module name="day02_03springmvc_fileupload" target="1.8" />
+      <module name="day02_04crossServer_fileupload_appServer" target="1.8" />
+      <module name="day02_04crossServer_fileupload_picServer" target="1.8" />
+      <module name="day02_05exception" target="1.8" />
+      <module name="day02_06interceptor" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
